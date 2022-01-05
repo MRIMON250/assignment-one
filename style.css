@@ -12,6 +12,7 @@ h1{
 .section-flex{
     display: flex;
     margin-bottom: 9px;
+    
 }
 
 .fast-section-div{
@@ -45,4 +46,61 @@ h1{
 
 .aling{
     padding-left: 28%;
+}
+
+
+.ack{
+    width: 10%;
+    padding-left: 10%;
+    border-left: 5px;
+    border-right: 20px;
+    border-top: 10px;
+    border-bottom: 10px;
+    background-color: thistle;
+}
+
+.thow-section{
+    margin-bottom: 10%;
+}
+
+.thoy{
+    width: 10%;
+    padding-left: 10%;
+}
+
+.thin{
+    width: 10%;
+    padding-left: 20%;
+}
+
+.ack img{
+    width: 60%;
+}
+
+.thoy img{
+    width: 60%;
+}
+
+.thin img{
+    width: 60%;
+    
+}
+
+.img-div img{
+    width: 70%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 40%;
+}
+.text-div{
+    width: 40%;
+}
+
+.section-four-txt{
+    width: 50%;
+}
+
+.section-img-four img{
+    width: 80%;
+    
 }

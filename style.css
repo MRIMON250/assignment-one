@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.h1-color{
+    color: slateblue;
+}
+h1{
+    font-size: 40px;
+}
+section{
+    display: flex;
+}
+
+.fast-section-div{
+    width: 50%;
+    padding-left: 80px;
+}
+
+.fast-section-div img{
+    width: 80%;
+
+}
+
+.expolre-button{
+    text-decoration: none;
+    background: slateblue;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+}

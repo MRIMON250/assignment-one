@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    
 }
 
 .h1-color{
@@ -8,8 +9,9 @@ body{
 h1{
     font-size: 40px;
 }
-section{
+.section-flex{
     display: flex;
+    margin-bottom: 9px;
 }
 
 .fast-section-div{
@@ -18,7 +20,8 @@ section{
 }
 
 .fast-section-div img{
-    width: 80%;
+    width: 70%;
+    padding-left: 20%;
 
 }
 
@@ -28,4 +31,18 @@ section{
     padding: 10px 20px;
     border-radius: 8px;
     color: white;
+}
+.heder{
+    border-left: 5px solid slateblue;
+    padding: 9px;
+    
+}
+
+#color-hed{
+    color: slateblue;
+    
+}
+
+.aling{
+    padding-left: 28%;
 }

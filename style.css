@@ -49,16 +49,25 @@ h1{
     padding-left: 28%;
 }
 
-
-
+.thow-section{
+    margin-bottom: 10%;
+}
 .thre-box{
     width: 25%;
     padding: 10px;
     margin-left: 5%;
     margin-right: 5%;
-   background-color: slateblue;
    border-radius: 10px;
    
+}
+#three-tp-coler-one{
+    background-color : slateblue;
+}
+#three-tp-coler-thwo{
+    background-color: rgb(221, 19, 170);
+}
+#three-tp-coler-three{
+    background-color: steelblue;
 }
 
 .thre-box img{
@@ -70,6 +79,14 @@ h1{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 40%;
+}
+
+.three-section{
+    margin-bottom: 10%;
+}
+
+.three-section{
+    mar
 }
 .text-div{
     width: 40%;

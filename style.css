@@ -36,6 +36,7 @@ h1{
 .heder{
     border-left: 5px solid slateblue;
     padding: 9px;
+    border-radius: 5px;
     
 }
 
@@ -49,41 +50,19 @@ h1{
 }
 
 
-.ack{
-    width: 10%;
-    padding-left: 10%;
-    border-left: 5px;
-    border-right: 20px;
-    border-top: 10px;
-    border-bottom: 10px;
-    background-color: thistle;
+
+.thre-box{
+    width: 25%;
+    padding: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+   background-color: slateblue;
+   border-radius: 10px;
+   
 }
 
-.thow-section{
-    margin-bottom: 10%;
-}
-
-.thoy{
-    width: 10%;
-    padding-left: 10%;
-}
-
-.thin{
-    width: 10%;
-    padding-left: 20%;
-}
-
-.ack img{
+.thre-box img{
     width: 60%;
-}
-
-.thoy img{
-    width: 60%;
-}
-
-.thin img{
-    width: 60%;
-    
 }
 
 .img-div img{

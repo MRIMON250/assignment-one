@@ -40,7 +40,7 @@ h1{
     
 }
 
-#color-hed{
+.color-hed{
     color: slateblue;
     
 }
@@ -91,6 +91,9 @@ h1{
 .text-div{
     width: 40%;
 }
+.four-section{
+    padding-left: 8%;
+}
 
 .section-four-txt{
     width: 50%;
@@ -99,4 +102,15 @@ h1{
 .section-img-four img{
     width: 80%;
     
+}
+
+.secion-five-img img{
+    width: 100%;
+    padding-left: 10%;
+}
+
+.secion-five-tex{
+    width: 40%;
+    padding-left: 10%;
+
 }
